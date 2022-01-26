@@ -180,10 +180,8 @@
         slidesPerView: 4,
         spaceBetween: 80
       },
-      992: {
-        slidesPerView: 6,
-        spaceBetween: 120
-      }
+     
+    
     }
   });
 
